@@ -6,14 +6,14 @@
       "label": "Organized Sessions"
     },
     {
-      "value": "3",
+      "value": "4",
       "suffix": ".",
       "label": "Oral Presentations"
     },
     {
-      "value": "2",
+      "value": "1",
       "suffix": ".",
-      "label": "Posters"
+      "label": "Poster"
     }
   ],
   "sessions": [
@@ -129,7 +129,7 @@
       "contributors": [
         "Nana Efua Enyimayew Afun"
       ],
-      "location": "Lightning stage",
+      "location": "Poster Area (Stage 2)",
       "isCoreStopNcd": true
     },
     {
