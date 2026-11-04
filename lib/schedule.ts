@@ -1,5 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
+import defaultScheduleData from "@/data/sessions.json";
 
 export type SessionCategory =
   | "organised"
@@ -38,10 +39,15 @@ export interface ScheduleData {
 const DATA_FILE_PATH = path.join(process.cwd(), "data", "sessions.json");
 
 export async function getScheduleData(): Promise<ScheduleData> {
-  const raw = await fs.readFile(DATA_FILE_PATH, "utf-8");
-  return JSON.parse(raw) as ScheduleData;
+  try {
+    const raw = await fs.readFile(DATA_FILE_PATH, "utf-8");
+    return JSON.parse(raw) as ScheduleData;
+  } catch {
+    return defaultScheduleData as ScheduleData;
+  }
 }
 
 export async function saveScheduleData(data: ScheduleData): Promise<void> {
   await fs.writeFile(DATA_FILE_PATH, JSON.stringify(data, null, 2), "utf-8");
 }
+
