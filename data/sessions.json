@@ -1,0 +1,162 @@
+{
+  "heroStats": [
+    {
+      "value": "4",
+      "suffix": ".",
+      "label": "Organized Sessions"
+    },
+    {
+      "value": "3",
+      "suffix": ".",
+      "label": "Oral Presentations"
+    },
+    {
+      "value": "2",
+      "suffix": ".",
+      "label": "Posters"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "day1-ai-nutritionbot",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "15:10 – 16:10",
+      "title": "Utilizing a Culturally-Responsive AI NutritionBot for NCD Control in Africa",
+      "typeLabel": "Organised Session",
+      "category": "organised",
+      "lead": "Prof. Angela Owusu-Ansah",
+      "contributors": [
+        "Prof. Irene Akua Agyepong",
+        "Dr. Kezia Amarteyfio",
+        "Dr. David Sasu",
+        "Mr. Joel Sackitey Kodji",
+        "Ms. Ann-Michelle Darko"
+      ],
+      "location": "CVC P022",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day1-plural-care",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "15:10 – 15:20",
+      "title": "Patients at the Helm of Plural Care",
+      "typeLabel": "Oral presentation",
+      "category": "abstract",
+      "lead": "Abdul-Basit Abdul-Samed",
+      "contributors": [],
+      "location": "SSE CP19",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day1-power-dynamics",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "15:50 – 16:00",
+      "title": "Power, policy and participation in health-system reform – Power dynamics throughout the design of a coproduced intervention",
+      "typeLabel": "Oral presentation",
+      "category": "abstract",
+      "lead": "Vincent-Paul Sanon",
+      "contributors": [],
+      "location": "SSE CP18",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day1-coproducing-interventions",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "16:30 – 17:30",
+      "title": "From co-producing interventions to transforming health systems in NCD care",
+      "typeLabel": "Organised Session",
+      "category": "organised",
+      "lead": "Prof Dina Balabanova",
+      "contributors": [
+        "Tolib Mirzoev",
+        "Evelyn Korkor Ansah",
+        "Linda Lucy Yevoo",
+        "Aïssa Diarra",
+        "Ibrahim Nassirou",
+        "Saidou Oumarou",
+        "Yamba Kafando",
+        "Neil Spicer",
+        "Yasmin Jahan"
+      ],
+      "location": "CVC P006 Mary Cross",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day1-stakeholders-burkina-faso",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "17:00 – 17:10",
+      "title": "Stakeholders contribution to strengthening interventions in Burkina Faso",
+      "typeLabel": "Oral presentation",
+      "category": "abstract",
+      "lead": "Maurice Yaogo",
+      "contributors": [],
+      "location": "SSE CP19",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day1-peer-networks",
+      "day": "Day 1",
+      "dayTitle": "Day 1 — Monday, 7 December 2026",
+      "time": "17:40 – 18:40",
+      "title": "Peer networks in West Africa: a platform for action for NCDs?",
+      "typeLabel": "Organised Session",
+      "category": "organised",
+      "lead": "Eleanor Hutchinson",
+      "contributors": [
+        "Lucy Yevoo",
+        "Nana Efua Afun",
+        "Saidou Oumarou",
+        "David Afrifa Yaw Mensah",
+        "Vincent-Paul Sanon"
+      ],
+      "location": "CVC P006 Mary Cross",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day2-paradox-of-care",
+      "day": "Day 2",
+      "dayTitle": "Day 2 — Tuesday, 8 December 2026",
+      "time": "12:46 – 12:50",
+      "title": "Within a Paradox of Care: Family Caregiving for NCDs Beyond Clinical Care",
+      "typeLabel": "Poster",
+      "category": "poster",
+      "lead": "",
+      "contributors": [
+        "Nana Efua Enyimayew Afun"
+      ],
+      "location": "Lightning stage",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day2-bridging-gap",
+      "day": "Day 2",
+      "dayTitle": "Day 2 — Tuesday, 8 December 2026",
+      "time": "16:10 – 16:20",
+      "title": "Bridging Gap Between Guidelines and Practice from a Mixed-Methods Study",
+      "typeLabel": "Oral presentation",
+      "category": "abstract",
+      "lead": "Nassirou Ibrahim",
+      "contributors": [],
+      "location": "SSE CP16",
+      "isCoreStopNcd": true
+    },
+    {
+      "id": "day2-readiness-traps",
+      "day": "Day 2",
+      "dayTitle": "Day 2 — Tuesday, 8 December 2026",
+      "time": "17:20 – 17:30",
+      "title": "Financing, Politics & NCD Readiness Traps",
+      "typeLabel": "Oral presentation",
+      "category": "abstract",
+      "lead": "Dziedzom Awalime",
+      "contributors": [],
+      "location": "SSE CP21",
+      "isCoreStopNcd": true
+    }
+  ]
+}

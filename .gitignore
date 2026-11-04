@@ -1,0 +1,37 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+.~lock.*
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# reference source files (large PDFs / raw spreadsheets / design files)
+NIHR_Brand guidelines_AW_compressed-1.pdf
+Stop-NCD_schedule_pk.xlsx
+Heading(6).png
+Heading(7).png
